@@ -1,0 +1,7 @@
+letterText: В каталоге появилась новая книга: ; bookName: r; bookAuthor: r; bookPublishing: r; yearOfPublishing: r; bookType: r; readStatus: true;
+letterText: В каталоге появилась новая книга: ; bookName: 1984; bookAuthor: дж оруэл; bookPublishing: 1949; yearOfPublishing: 1949; bookType: печатный; readStatus: true;
+letterText: В каталоге появилась новая книга: ; bookName: u; bookAuthor: u; bookPublishing: u; yearOfPublishing: u; bookType: u; readStatus: true;
+letterText: В каталоге появилась новая книга: ; bookName: we; bookAuthor: we; bookPublishing: we; yearOfPublishing: we; bookType: we; readStatus: true;
+letterText: В каталоге появилась новая книга: ; bookName: i; bookAuthor: i; bookPublishing: i; yearOfPublishing: i; bookType: i; readStatus: true;
+letterText: В каталоге появилась новая книга: ; bookName: q; bookAuthor: q; bookPublishing: q; yearOfPublishing: q; bookType: q; readStatus: true;
+letterText: В каталоге появилась новая книга: ; bookName: ty; bookAuthor: ty; bookPublishing: ty; yearOfPublishing: ty; bookType: ty; readStatus: true;

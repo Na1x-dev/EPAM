@@ -1,0 +1,4 @@
+username: na1x; password: 305; role: admin;
+username: sym; password: 305; role: user;
+username: ter; password: 305; role: user;
+username: jayPokerman; password: 305; role: user;

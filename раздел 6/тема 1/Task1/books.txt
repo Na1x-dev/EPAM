@@ -1,0 +1,10 @@
+bookName: 451 градус по Фаренгейту; bookAuthor: Рэй Брэдбери; bookPublishing: Эксмо; yearOfPublishing: 2021; bookType: печатный;
+bookName: 1984; bookAuthor: Джордж Оруэлл; bookPublishing: АСТ; yearOfPublishing: 2015; bookType: печатный;
+bookName: О дивный новый мир; bookAuthor: Олдос Хаксли; bookPublishing: АСТ; yearOfPublishing: 2016; bookType: электронный;
+bookName: Меч предназначения; bookAuthor: Анджей Сапковский; bookPublishing: АСТ; yearOfPublishing: 2015; bookType: электронный;
+bookName: 1984; bookAuthor: Джордж Оруэлл; bookPublishing: АСТ; yearOfPublishing: 2015; bookType: электронный;
+bookName: i; bookAuthor: i; bookPublishing: i; yearOfPublishing: i; bookType: i;
+bookName: e; bookAuthor: e; bookPublishing: e; yearOfPublishing: e; bookType: e;
+bookName: w; bookAuthor: w; bookPublishing: w; yearOfPublishing: w; bookType: w;
+bookName: q; bookAuthor: q; bookPublishing: q; yearOfPublishing: q; bookType: q;
+bookName: ty; bookAuthor: ty; bookPublishing: ty; yearOfPublishing: ty; bookType: ty;

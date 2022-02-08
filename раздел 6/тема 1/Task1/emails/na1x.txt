@@ -1,0 +1,8 @@
+letterText: Предложение добавить новую книгу: ; bookName: s; bookAuthor: s; bookPublishing: s; yearOfPublishing: s; bookType: s; readStatus: true;
+letterText: Предложение добавить новую книгу: ; bookName: e; bookAuthor: e; bookPublishing: e; yearOfPublishing: e; bookType: e; readStatus: true;
+letterText: Предложение добавить новую книгу: ; bookName: q; bookAuthor: q; bookPublishing: q; yearOfPublishing: q; bookType: q; readStatus: true;
+letterText: Предложение добавить новую книгу: ; bookName: w; bookAuthor: w; bookPublishing: w; yearOfPublishing: w; bookType: w; readStatus: true;
+letterText: Предложение добавить новую книгу: ; bookName: h; bookAuthor: h; bookPublishing: h; yearOfPublishing: h; bookType: h; readStatus: true;
+letterText: Предложение добавить новую книгу: ; bookName: q; bookAuthor: q; bookPublishing: q; yearOfPublishing: q; bookType: q; readStatus: true;
+letterText: Предложение добавить новую книгу: ; bookName: ty; bookAuthor: ty; bookPublishing: ty; yearOfPublishing: ty; bookType: ty; readStatus: true;
+letterText: Предложение добавить новую книгу: ; bookName: hj; bookAuthor: hj; bookPublishing: hjh; yearOfPublishing: jh; bookType: j; readStatus: true;

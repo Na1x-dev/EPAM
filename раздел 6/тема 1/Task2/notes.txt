@@ -1,0 +1,4 @@
+{theme: 'SOME ZAMETKA'; date: '05.10.2021'; email: 'and2014ruha@gmail.com'; message: 'nikita loh';}
+{theme: 'new some zametka'; date: '05.10.2021'; email: 'and2014ruha@gmail.com'; message: 'nikita loh';}
+{theme: 'nikita loh again'; date: '05.10.2021'; email: 'and2014ruha@gmail.com'; message: 'nikita loh';}
+{theme: 'loh'; date: '05.10.2021'; email: 'nikita@gmail.com'; message: 'ratatatata';}
